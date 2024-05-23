@@ -1,0 +1,2862 @@
+[
+    {
+        "sentence": "RINDIRIZZA Ġwann Marija Vianney",
+        "entities": "Ġwann Marija Vianney huwa persuna.",
+        "tokens": [
+            "RINDIRIZZA",
+            "Ġwann",
+            "Marija",
+            "Vianney"
+        ],
+        "spans": [
+            "PER: Ġwann Marija Vianney"
+        ],
+        "ner": [
+            "O",
+            "B-PER",
+            "I-PER",
+            "I-PER"
+        ]
+    },
+    {
+        "sentence": "Rebbieħ tal-premju tal-Għarbi , f’Lulju jitla’ Ruma jissokta l-istudji tiegħu .",
+        "entities": "Ruma huwa post.",
+        "tokens": [
+            "Rebbieħ",
+            "tal-premju",
+            "tal-Għarbi",
+            ",",
+            "f’Lulju",
+            "jitla’",
+            "Ruma",
+            "jissokta",
+            "l-istudji",
+            "tiegħu",
+            "."
+        ],
+        "spans": [
+            "LOC: Ruma"
+        ],
+        "ner": [
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "B-LOC",
+            "O",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "sentence": "Hu ħaseb li kien wasal Asja .",
+        "entities": "Asja huwa post.",
+        "tokens": [
+            "Hu",
+            "ħaseb",
+            "li",
+            "kien",
+            "wasal",
+            "Asja",
+            "."
+        ],
+        "spans": [
+            "LOC: Asja"
+        ],
+        "ner": [
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "B-LOC",
+            "O"
+        ]
+    },
+    {
+        "sentence": "Glen De Boeck ( Nov 2012– )",
+        "entities": "Glen De Boeck huwa persuna.",
+        "tokens": [
+            "Glen",
+            "De",
+            "Boeck",
+            "(",
+            "Nov",
+            "2012–",
+            ")"
+        ],
+        "spans": [
+            "PER: Glen De Boeck"
+        ],
+        "ner": [
+            "B-PER",
+            "I-PER",
+            "I-PER",
+            "O",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "sentence": "RINDIRIZZA Cercle Brugge KSV",
+        "entities": "Cercle Brugge KSV huwa organizzazzjoni.",
+        "tokens": [
+            "RINDIRIZZA",
+            "Cercle",
+            "Brugge",
+            "KSV"
+        ],
+        "spans": [
+            "ORG: Cercle Brugge KSV"
+        ],
+        "ner": [
+            "O",
+            "B-ORG",
+            "I-ORG",
+            "I-ORG"
+        ]
+    },
+    {
+        "sentence": "Marjanu Vella ( 1927–1988 )",
+        "entities": "Marjanu Vella huwa persuna.",
+        "tokens": [
+            "Marjanu",
+            "Vella",
+            "(",
+            "1927–1988",
+            ")"
+        ],
+        "spans": [
+            "PER: Marjanu Vella"
+        ],
+        "ner": [
+            "B-PER",
+            "I-PER",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "sentence": "L-istadju finalment lesta r-rinnovazzjoni tiegħu kmieni fl-2012 , fejn 13,000 biljetti marru fuq il-bejgħ għall-ewwel logħba li saret hemmhekk u l-interess kien għoli minħabba l-fatt li l-aħħar logħba Superliga Albaniża li saret hemm fl-2002 .",
+        "entities": "Superliga Albaniża huwa organizzazzjoni.",
+        "tokens": [
+            "L-istadju",
+            "finalment",
+            "lesta",
+            "r-rinnovazzjoni",
+            "tiegħu",
+            "kmieni",
+            "fl-2012",
+            ",",
+            "fejn",
+            "13,000",
+            "biljetti",
+            "marru",
+            "fuq",
+            "il-bejgħ",
+            "għall-ewwel",
+            "logħba",
+            "li",
+            "saret",
+            "hemmhekk",
+            "u",
+            "l-interess",
+            "kien",
+            "għoli",
+            "minħabba",
+            "l-fatt",
+            "li",
+            "l-aħħar",
+            "logħba",
+            "Superliga",
+            "Albaniża",
+            "li",
+            "saret",
+            "hemm",
+            "fl-2002",
+            "."
+        ],
+        "spans": [
+            "ORG: Superliga Albaniża"
+        ],
+        "ner": [
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "B-ORG",
+            "I-ORG",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "sentence": "RINDIRIZZA Gowler ( futbol )",
+        "entities": "Gowler ( futbol ) huwa persuna.",
+        "tokens": [
+            "RINDIRIZZA",
+            "Gowler",
+            "(",
+            "futbol",
+            ")"
+        ],
+        "spans": [
+            "PER: Gowler ( futbol )"
+        ],
+        "ner": [
+            "O",
+            "B-PER",
+            "I-PER",
+            "I-PER",
+            "I-PER"
+        ]
+    },
+    {
+        "sentence": "Kienu l-Italja li żammew it-titlu għandhom wara li fil-finali għelbu Ungerija .",
+        "entities": "Ungerija huwa organizzazzjoni.",
+        "tokens": [
+            "Kienu",
+            "l-Italja",
+            "li",
+            "żammew",
+            "it-titlu",
+            "għandhom",
+            "wara",
+            "li",
+            "fil-finali",
+            "għelbu",
+            "Ungerija",
+            "."
+        ],
+        "spans": [
+            "ORG: Ungerija"
+        ],
+        "ner": [
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "B-ORG",
+            "O"
+        ]
+    },
+    {
+        "sentence": "Opossum irqiq ta ' Pinheiro",
+        "entities": "Opossum irqiq ta ' Pinheiro huwa post.",
+        "tokens": [
+            "Opossum",
+            "irqiq",
+            "ta",
+            "'",
+            "Pinheiro"
+        ],
+        "spans": [
+            "LOC: Opossum irqiq ta ' Pinheiro"
+        ],
+        "ner": [
+            "B-LOC",
+            "I-LOC",
+            "I-LOC",
+            "I-LOC",
+            "I-LOC"
+        ]
+    },
+    {
+        "sentence": "Joseph Calleia ( 1897–1975 ) — attur li qatta ' l-karriera tiegħu ikanta kullimkien",
+        "entities": "Joseph Calleia huwa persuna.",
+        "tokens": [
+            "Joseph",
+            "Calleia",
+            "(",
+            "1897–1975",
+            ")",
+            "—",
+            "attur",
+            "li",
+            "qatta",
+            "'",
+            "l-karriera",
+            "tiegħu",
+            "ikanta",
+            "kullimkien"
+        ],
+        "spans": [
+            "PER: Joseph Calleia"
+        ],
+        "ner": [
+            "B-PER",
+            "I-PER",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "sentence": "387 – Bożnija u Ħerżegovina",
+        "entities": "Bożnija u Ħerżegovina huwa post.",
+        "tokens": [
+            "387",
+            "–",
+            "Bożnija",
+            "u",
+            "Ħerżegovina"
+        ],
+        "spans": [
+            "LOC: Bożnija u Ħerżegovina"
+        ],
+        "ner": [
+            "O",
+            "O",
+            "B-LOC",
+            "I-LOC",
+            "I-LOC"
+        ]
+    },
+    {
+        "sentence": "Polonja , Renju Unit u Ġermanja rċevew ilkoll 14-il punt .",
+        "entities": "Polonja huwa post.\nRenju Unit huwa post.\nĠermanja huwa post.",
+        "tokens": [
+            "Polonja",
+            ",",
+            "Renju",
+            "Unit",
+            "u",
+            "Ġermanja",
+            "rċevew",
+            "ilkoll",
+            "14-il",
+            "punt",
+            "."
+        ],
+        "spans": [
+            "LOC: Polonja",
+            "LOC: Renju Unit",
+            "LOC: Ġermanja"
+        ],
+        "ner": [
+            "B-LOC",
+            "O",
+            "B-LOC",
+            "I-LOC",
+            "O",
+            "B-LOC",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "sentence": "' '' L-Ewwel Diviżjoni Maltija '' ' '' ( it-tieni livell[2] ) ''",
+        "entities": "L-Ewwel Diviżjoni Maltija huwa organizzazzjoni.",
+        "tokens": [
+            "'",
+            "''",
+            "L-Ewwel",
+            "Diviżjoni",
+            "Maltija",
+            "''",
+            "'",
+            "''",
+            "(",
+            "it-tieni",
+            "livell[2]",
+            ")",
+            "''"
+        ],
+        "spans": [
+            "ORG: L-Ewwel Diviżjoni Maltija"
+        ],
+        "ner": [
+            "O",
+            "O",
+            "B-ORG",
+            "I-ORG",
+            "I-ORG",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "sentence": "RINDIRIZZA Opossum ta ' denbu qasir tal-ġnub ħomor ta ' Nofsinhar",
+        "entities": "Opossum ta ' denbu qasir tal-ġnub ħomor ta ' Nofsinhar huwa post.",
+        "tokens": [
+            "RINDIRIZZA",
+            "Opossum",
+            "ta",
+            "'",
+            "denbu",
+            "qasir",
+            "tal-ġnub",
+            "ħomor",
+            "ta",
+            "'",
+            "Nofsinhar"
+        ],
+        "spans": [
+            "LOC: Opossum ta ' denbu qasir tal-ġnub ħomor ta ' Nofsinhar"
+        ],
+        "ner": [
+            "O",
+            "B-LOC",
+            "I-LOC",
+            "I-LOC",
+            "I-LOC",
+            "I-LOC",
+            "I-LOC",
+            "I-LOC",
+            "I-LOC",
+            "I-LOC",
+            "I-LOC"
+        ]
+    },
+    {
+        "sentence": "RINDIRIZZA Ludwig van Beethoven",
+        "entities": "Ludwig van Beethoven huwa persuna.",
+        "tokens": [
+            "RINDIRIZZA",
+            "Ludwig",
+            "van",
+            "Beethoven"
+        ],
+        "spans": [
+            "PER: Ludwig van Beethoven"
+        ],
+        "ner": [
+            "O",
+            "B-PER",
+            "I-PER",
+            "I-PER"
+        ]
+    },
+    {
+        "sentence": "' '' Ċampjins Ewwel Diviżjoni '' '",
+        "entities": "Ewwel Diviżjoni huwa organizzazzjoni.",
+        "tokens": [
+            "'",
+            "''",
+            "Ċampjins",
+            "Ewwel",
+            "Diviżjoni",
+            "''",
+            "'"
+        ],
+        "spans": [
+            "ORG: Ewwel Diviżjoni"
+        ],
+        "ner": [
+            "O",
+            "O",
+            "O",
+            "B-ORG",
+            "I-ORG",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "sentence": "3 Il-Baħamas għażlu li l-leg li kellhom jilgħabu ġewwa darhom tintlagħab Ġamajka .",
+        "entities": "Ġamajka huwa post.",
+        "tokens": [
+            "3",
+            "Il-Baħamas",
+            "għażlu",
+            "li",
+            "l-leg",
+            "li",
+            "kellhom",
+            "jilgħabu",
+            "ġewwa",
+            "darhom",
+            "tintlagħab",
+            "Ġamajka",
+            "."
+        ],
+        "spans": [
+            "LOC: Ġamajka"
+        ],
+        "ner": [
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "B-LOC",
+            "O"
+        ]
+    },
+    {
+        "sentence": "RINDIRIZZA KF Skënderbeu Korçë",
+        "entities": "KF Skënderbeu Korçë huwa organizzazzjoni.",
+        "tokens": [
+            "RINDIRIZZA",
+            "KF",
+            "Skënderbeu",
+            "Korçë"
+        ],
+        "spans": [
+            "ORG: KF Skënderbeu Korçë"
+        ],
+        "ner": [
+            "O",
+            "B-ORG",
+            "I-ORG",
+            "I-ORG"
+        ]
+    },
+    {
+        "sentence": "' '' Kaká '' '",
+        "entities": "Kaká huwa persuna.",
+        "tokens": [
+            "'",
+            "''",
+            "Kaká",
+            "''",
+            "'"
+        ],
+        "spans": [
+            "PER: Kaká"
+        ],
+        "ner": [
+            "O",
+            "O",
+            "B-PER",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "sentence": "Ħames snin wara , huwa ssieħeb ma Genk .",
+        "entities": "Genk huwa organizzazzjoni.",
+        "tokens": [
+            "Ħames",
+            "snin",
+            "wara",
+            ",",
+            "huwa",
+            "ssieħeb",
+            "ma",
+            "Genk",
+            "."
+        ],
+        "spans": [
+            "ORG: Genk"
+        ],
+        "ner": [
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "B-ORG",
+            "O"
+        ]
+    },
+    {
+        "sentence": "RINDIRIZZA Wolverhampton Wanderers FC",
+        "entities": "Wolverhampton Wanderers FC huwa organizzazzjoni.",
+        "tokens": [
+            "RINDIRIZZA",
+            "Wolverhampton",
+            "Wanderers",
+            "FC"
+        ],
+        "spans": [
+            "ORG: Wolverhampton Wanderers FC"
+        ],
+        "ner": [
+            "O",
+            "B-ORG",
+            "I-ORG",
+            "I-ORG"
+        ]
+    },
+    {
+        "sentence": "******Ġeneru Philander '' ( Brisson , 1762 )",
+        "entities": "Philander huwa post.",
+        "tokens": [
+            "******Ġeneru",
+            "Philander",
+            "''",
+            "(",
+            "Brisson",
+            ",",
+            "1762",
+            ")"
+        ],
+        "spans": [
+            "LOC: Philander"
+        ],
+        "ner": [
+            "O",
+            "B-LOC",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "sentence": "L-elezzjoni tal-1955 intrebħet Partit Laburista mmexxi minn Dom Mintoff .",
+        "entities": "Partit Laburista huwa organizzazzjoni.\nDom Mintoff huwa persuna.",
+        "tokens": [
+            "L-elezzjoni",
+            "tal-1955",
+            "intrebħet",
+            "Partit",
+            "Laburista",
+            "mmexxi",
+            "minn",
+            "Dom",
+            "Mintoff",
+            "."
+        ],
+        "spans": [
+            "ORG: Partit Laburista",
+            "PER: Dom Mintoff"
+        ],
+        "ner": [
+            "O",
+            "O",
+            "O",
+            "B-ORG",
+            "I-ORG",
+            "O",
+            "O",
+            "B-PER",
+            "I-PER",
+            "O"
+        ]
+    },
+    {
+        "sentence": "Mary Meilak ( 1905-1975 ) - poetessa",
+        "entities": "Mary Meilak huwa persuna.",
+        "tokens": [
+            "Mary",
+            "Meilak",
+            "(",
+            "1905-1975",
+            ")",
+            "-",
+            "poetessa"
+        ],
+        "spans": [
+            "PER: Mary Meilak"
+        ],
+        "ner": [
+            "B-PER",
+            "I-PER",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "sentence": "Opossum irqiq ta ' Panama",
+        "entities": "Opossum irqiq ta ' Panama huwa post.",
+        "tokens": [
+            "Opossum",
+            "irqiq",
+            "ta",
+            "'",
+            "Panama"
+        ],
+        "spans": [
+            "LOC: Opossum irqiq ta ' Panama"
+        ],
+        "ner": [
+            "B-LOC",
+            "I-LOC",
+            "I-LOC",
+            "I-LOC",
+            "I-LOC"
+        ]
+    },
+    {
+        "sentence": "Serbja rebħet fl-ewwel sena li daħlet bħala pajjiż indipendenti ( mhux Montenegro ) , 2007 .",
+        "entities": "Serbja huwa post.\nMontenegro huwa post.\n2007 huwa organizzazzjoni.",
+        "tokens": [
+            "Serbja",
+            "rebħet",
+            "fl-ewwel",
+            "sena",
+            "li",
+            "daħlet",
+            "bħala",
+            "pajjiż",
+            "indipendenti",
+            "(",
+            "mhux",
+            "Montenegro",
+            ")",
+            ",",
+            "2007",
+            "."
+        ],
+        "spans": [
+            "LOC: Serbja",
+            "LOC: Montenegro",
+            "ORG: 2007"
+        ],
+        "ner": [
+            "B-LOC",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "B-LOC",
+            "O",
+            "O",
+            "B-ORG",
+            "O"
+        ]
+    },
+    {
+        "sentence": "Baqgħu jtellgħu xogħlijiet fis-sala tal-Astoria Rabat .",
+        "entities": "Rabat huwa post.",
+        "tokens": [
+            "Baqgħu",
+            "jtellgħu",
+            "xogħlijiet",
+            "fis-sala",
+            "tal-Astoria",
+            "Rabat",
+            "."
+        ],
+        "spans": [
+            "LOC: Rabat"
+        ],
+        "ner": [
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "B-LOC",
+            "O"
+        ]
+    },
+    {
+        "sentence": "Enriku VIII tal-Ingilterra",
+        "entities": "Enriku VIII tal-Ingilterra huwa persuna.",
+        "tokens": [
+            "Enriku",
+            "VIII",
+            "tal-Ingilterra"
+        ],
+        "spans": [
+            "PER: Enriku VIII tal-Ingilterra"
+        ],
+        "ner": [
+            "B-PER",
+            "I-PER",
+            "I-PER"
+        ]
+    },
+    {
+        "sentence": "Il-partita kienet bejn Ġermanja u Spanja , u dan tal-aħħar rebaħ 1–0 , b'gowl skurjat minn Fernando Torres .",
+        "entities": "Ġermanja huwa organizzazzjoni.\nSpanja huwa organizzazzjoni.\nFernando Torres huwa persuna.",
+        "tokens": [
+            "Il-partita",
+            "kienet",
+            "bejn",
+            "Ġermanja",
+            "u",
+            "Spanja",
+            ",",
+            "u",
+            "dan",
+            "tal-aħħar",
+            "rebaħ",
+            "1–0",
+            ",",
+            "b'gowl",
+            "skurjat",
+            "minn",
+            "Fernando",
+            "Torres",
+            "."
+        ],
+        "spans": [
+            "ORG: Ġermanja",
+            "ORG: Spanja",
+            "PER: Fernando Torres"
+        ],
+        "ner": [
+            "O",
+            "O",
+            "O",
+            "B-ORG",
+            "O",
+            "B-ORG",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "B-PER",
+            "I-PER",
+            "O"
+        ]
+    },
+    {
+        "sentence": "Liebru ta ' Yunnan",
+        "entities": "Liebru ta ' Yunnan huwa post.",
+        "tokens": [
+            "Liebru",
+            "ta",
+            "'",
+            "Yunnan"
+        ],
+        "spans": [
+            "LOC: Liebru ta ' Yunnan"
+        ],
+        "ner": [
+            "B-LOC",
+            "I-LOC",
+            "I-LOC",
+            "I-LOC"
+        ]
+    },
+    {
+        "sentence": "Libanu fil-Festival tal-Eurovision",
+        "entities": "Libanu fil-Festival tal-Eurovision huwa post.",
+        "tokens": [
+            "Libanu",
+            "fil-Festival",
+            "tal-Eurovision"
+        ],
+        "spans": [
+            "LOC: Libanu fil-Festival tal-Eurovision"
+        ],
+        "ner": [
+            "B-LOC",
+            "I-LOC",
+            "I-LOC"
+        ]
+    },
+    {
+        "sentence": "Saħansitra kien daħal f’koalizzjoni miegħu iżda kien mgħoddi biż-żmien u , għalhekk , ittieħdet deċiżjoni li jsir ftehim ma’ Gerald Strickland u sħabu .",
+        "entities": "Gerald Strickland huwa persuna.",
+        "tokens": [
+            "Saħansitra",
+            "kien",
+            "daħal",
+            "f’koalizzjoni",
+            "miegħu",
+            "iżda",
+            "kien",
+            "mgħoddi",
+            "biż-żmien",
+            "u",
+            ",",
+            "għalhekk",
+            ",",
+            "ittieħdet",
+            "deċiżjoni",
+            "li",
+            "jsir",
+            "ftehim",
+            "ma’",
+            "Gerald",
+            "Strickland",
+            "u",
+            "sħabu",
+            "."
+        ],
+        "spans": [
+            "PER: Gerald Strickland"
+        ],
+        "ner": [
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "B-PER",
+            "I-PER",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "sentence": "Il-ftit drabi li deher , ħafna minnhom għamilhom fil-preżenza tas-suċċessur tiegħu , Papa Franġisku , u qatt ma esprima ideat kuntrarji għal tiegħu .",
+        "entities": "Papa Franġisku huwa persuna.",
+        "tokens": [
+            "Il-ftit",
+            "drabi",
+            "li",
+            "deher",
+            ",",
+            "ħafna",
+            "minnhom",
+            "għamilhom",
+            "fil-preżenza",
+            "tas-suċċessur",
+            "tiegħu",
+            ",",
+            "Papa",
+            "Franġisku",
+            ",",
+            "u",
+            "qatt",
+            "ma",
+            "esprima",
+            "ideat",
+            "kuntrarji",
+            "għal",
+            "tiegħu",
+            "."
+        ],
+        "spans": [
+            "PER: Papa Franġisku"
+        ],
+        "ner": [
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "B-PER",
+            "I-PER",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "sentence": "Albert Hyzler ( aġent )",
+        "entities": "Albert Hyzler huwa persuna.",
+        "tokens": [
+            "Albert",
+            "Hyzler",
+            "(",
+            "aġent",
+            ")"
+        ],
+        "spans": [
+            "PER: Albert Hyzler"
+        ],
+        "ner": [
+            "B-PER",
+            "I-PER",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "sentence": "' '' Premier League Malti '' '",
+        "entities": "Premier League Malti huwa organizzazzjoni.",
+        "tokens": [
+            "'",
+            "''",
+            "Premier",
+            "League",
+            "Malti",
+            "''",
+            "'"
+        ],
+        "spans": [
+            "ORG: Premier League Malti"
+        ],
+        "ner": [
+            "O",
+            "O",
+            "B-ORG",
+            "I-ORG",
+            "I-ORG",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "sentence": "Bejn l-1996 u l-1998 kien il-konsulent tal-Prim Ministru ( Dr. Alfred Sant ) dwar il-kultura .",
+        "entities": "Dr. Alfred Sant huwa persuna.",
+        "tokens": [
+            "Bejn",
+            "l-1996",
+            "u",
+            "l-1998",
+            "kien",
+            "il-konsulent",
+            "tal-Prim",
+            "Ministru",
+            "(",
+            "Dr.",
+            "Alfred",
+            "Sant",
+            ")",
+            "dwar",
+            "il-kultura",
+            "."
+        ],
+        "spans": [
+            "PER: Dr. Alfred Sant"
+        ],
+        "ner": [
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "B-PER",
+            "I-PER",
+            "I-PER",
+            "O",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "sentence": "Hemmhekk hu kien ġie skopert minn São Paulo li offrielu kuntratt .",
+        "entities": "São Paulo huwa organizzazzjoni.",
+        "tokens": [
+            "Hemmhekk",
+            "hu",
+            "kien",
+            "ġie",
+            "skopert",
+            "minn",
+            "São",
+            "Paulo",
+            "li",
+            "offrielu",
+            "kuntratt",
+            "."
+        ],
+        "spans": [
+            "ORG: São Paulo"
+        ],
+        "ner": [
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "B-ORG",
+            "I-ORG",
+            "O",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "sentence": "Il-kampjonat kien imwettaq f'4 timijiet , u Floriana kienu rebbieħa tal-kampjonat .",
+        "entities": "Floriana huwa organizzazzjoni.",
+        "tokens": [
+            "Il-kampjonat",
+            "kien",
+            "imwettaq",
+            "f'4",
+            "timijiet",
+            ",",
+            "u",
+            "Floriana",
+            "kienu",
+            "rebbieħa",
+            "tal-kampjonat",
+            "."
+        ],
+        "spans": [
+            "ORG: Floriana"
+        ],
+        "ner": [
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "B-ORG",
+            "O",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "sentence": "Iż- '' 'Żambja '' ' hi nazzjon Afrika .",
+        "entities": "Afrika huwa post.",
+        "tokens": [
+            "Iż-",
+            "''",
+            "'Żambja",
+            "''",
+            "'",
+            "hi",
+            "nazzjon",
+            "Afrika",
+            "."
+        ],
+        "spans": [
+            "LOC: Afrika"
+        ],
+        "ner": [
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "B-LOC",
+            "O"
+        ]
+    },
+    {
+        "sentence": "RINDIRIZZA Tim nazzjonali tal-futbol ta ' San Marino",
+        "entities": "Tim nazzjonali tal-futbol ta ' San Marino huwa organizzazzjoni.",
+        "tokens": [
+            "RINDIRIZZA",
+            "Tim",
+            "nazzjonali",
+            "tal-futbol",
+            "ta",
+            "'",
+            "San",
+            "Marino"
+        ],
+        "spans": [
+            "ORG: Tim nazzjonali tal-futbol ta ' San Marino"
+        ],
+        "ner": [
+            "O",
+            "B-ORG",
+            "I-ORG",
+            "I-ORG",
+            "I-ORG",
+            "I-ORG",
+            "I-ORG",
+            "I-ORG"
+        ]
+    },
+    {
+        "sentence": "Ġużè Aquilina ( 1911-1997 )",
+        "entities": "Ġużè Aquilina huwa persuna.",
+        "tokens": [
+            "Ġużè",
+            "Aquilina",
+            "(",
+            "1911-1997",
+            ")"
+        ],
+        "spans": [
+            "PER: Ġużè Aquilina"
+        ],
+        "ner": [
+            "B-PER",
+            "I-PER",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "sentence": "' '' FC Barcelona '' ' '' 'It-tielet titlu '' '",
+        "entities": "FC Barcelona huwa organizzazzjoni.",
+        "tokens": [
+            "'",
+            "''",
+            "FC",
+            "Barcelona",
+            "''",
+            "'",
+            "''",
+            "'It-tielet",
+            "titlu",
+            "''",
+            "'"
+        ],
+        "spans": [
+            "ORG: FC Barcelona"
+        ],
+        "ner": [
+            "O",
+            "O",
+            "B-ORG",
+            "I-ORG",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "sentence": "Il-kampjonat kien imwettaq f'4 timijiet , u Floriana kienu rebbieħa tal-kampjonat .",
+        "entities": "Floriana huwa organizzazzjoni.",
+        "tokens": [
+            "Il-kampjonat",
+            "kien",
+            "imwettaq",
+            "f'4",
+            "timijiet",
+            ",",
+            "u",
+            "Floriana",
+            "kienu",
+            "rebbieħa",
+            "tal-kampjonat",
+            "."
+        ],
+        "spans": [
+            "ORG: Floriana"
+        ],
+        "ner": [
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "B-ORG",
+            "O",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "sentence": "Carlos Eugênio Simon",
+        "entities": "Carlos Eugênio Simon huwa persuna.",
+        "tokens": [
+            "Carlos",
+            "Eugênio",
+            "Simon"
+        ],
+        "spans": [
+            "PER: Carlos Eugênio Simon"
+        ],
+        "ner": [
+            "B-PER",
+            "I-PER",
+            "I-PER"
+        ]
+    },
+    {
+        "sentence": "RINDIRIZZA Opossum ta ' denbu qasir tal-Perù",
+        "entities": "Opossum ta ' denbu qasir tal-Perù huwa post.",
+        "tokens": [
+            "RINDIRIZZA",
+            "Opossum",
+            "ta",
+            "'",
+            "denbu",
+            "qasir",
+            "tal-Perù"
+        ],
+        "spans": [
+            "LOC: Opossum ta ' denbu qasir tal-Perù"
+        ],
+        "ner": [
+            "O",
+            "B-LOC",
+            "I-LOC",
+            "I-LOC",
+            "I-LOC",
+            "I-LOC",
+            "I-LOC"
+        ]
+    },
+    {
+        "sentence": "'' It-Tnax-il Lejl '' ( William Shakespeare )",
+        "entities": "William Shakespeare huwa persuna.",
+        "tokens": [
+            "''",
+            "It-Tnax-il",
+            "Lejl",
+            "''",
+            "(",
+            "William",
+            "Shakespeare",
+            ")"
+        ],
+        "spans": [
+            "PER: William Shakespeare"
+        ],
+        "ner": [
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "B-PER",
+            "I-PER",
+            "O"
+        ]
+    },
+    {
+        "sentence": "St. Lawrence Spurs F.C .",
+        "entities": "St. Lawrence Spurs F.C . huwa organizzazzjoni.",
+        "tokens": [
+            "St.",
+            "Lawrence",
+            "Spurs",
+            "F.C",
+            "."
+        ],
+        "spans": [
+            "ORG: St. Lawrence Spurs F.C ."
+        ],
+        "ner": [
+            "B-ORG",
+            "I-ORG",
+            "I-ORG",
+            "I-ORG",
+            "I-ORG"
+        ]
+    },
+    {
+        "sentence": "Gżejjer ta ' San Pawl / Selmunett",
+        "entities": "Gżejjer ta ' San Pawl huwa post.",
+        "tokens": [
+            "Gżejjer",
+            "ta",
+            "'",
+            "San",
+            "Pawl",
+            "/",
+            "Selmunett"
+        ],
+        "spans": [
+            "LOC: Gżejjer ta ' San Pawl"
+        ],
+        "ner": [
+            "B-LOC",
+            "I-LOC",
+            "I-LOC",
+            "I-LOC",
+            "I-LOC",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "sentence": "Edwin van der Sar",
+        "entities": "Edwin van der Sar huwa persuna.",
+        "tokens": [
+            "Edwin",
+            "van",
+            "der",
+            "Sar"
+        ],
+        "spans": [
+            "PER: Edwin van der Sar"
+        ],
+        "ner": [
+            "B-PER",
+            "I-PER",
+            "I-PER",
+            "I-PER"
+        ]
+    },
+    {
+        "sentence": "RINDIRIZZA Otto von Bismarck",
+        "entities": "Otto von Bismarck huwa persuna.",
+        "tokens": [
+            "RINDIRIZZA",
+            "Otto",
+            "von",
+            "Bismarck"
+        ],
+        "spans": [
+            "PER: Otto von Bismarck"
+        ],
+        "ner": [
+            "O",
+            "B-PER",
+            "I-PER",
+            "I-PER"
+        ]
+    },
+    {
+        "sentence": "Fenek ta ' Amami",
+        "entities": "Fenek ta ' Amami huwa post.",
+        "tokens": [
+            "Fenek",
+            "ta",
+            "'",
+            "Amami"
+        ],
+        "spans": [
+            "LOC: Fenek ta ' Amami"
+        ],
+        "ner": [
+            "B-LOC",
+            "I-LOC",
+            "I-LOC",
+            "I-LOC"
+        ]
+    },
+    {
+        "sentence": "RINDIRIZZA Ilarju ta ' Poitiers",
+        "entities": "Ilarju ta ' Poitiers huwa persuna.",
+        "tokens": [
+            "RINDIRIZZA",
+            "Ilarju",
+            "ta",
+            "'",
+            "Poitiers"
+        ],
+        "spans": [
+            "PER: Ilarju ta ' Poitiers"
+        ],
+        "ner": [
+            "O",
+            "B-PER",
+            "I-PER",
+            "I-PER",
+            "I-PER"
+        ]
+    },
+    {
+        "sentence": "Bħalissa huwa jilgħab tim nazzjonali Malti tal-U19 .",
+        "entities": "tim nazzjonali Malti tal-U19 huwa organizzazzjoni.",
+        "tokens": [
+            "Bħalissa",
+            "huwa",
+            "jilgħab",
+            "tim",
+            "nazzjonali",
+            "Malti",
+            "tal-U19",
+            "."
+        ],
+        "spans": [
+            "ORG: tim nazzjonali Malti tal-U19"
+        ],
+        "ner": [
+            "O",
+            "O",
+            "O",
+            "B-ORG",
+            "I-ORG",
+            "I-ORG",
+            "I-ORG",
+            "O"
+        ]
+    },
+    {
+        "sentence": "RINDIRIZZA UEFA Champions League 2007–08",
+        "entities": "UEFA Champions League 2007–08 huwa organizzazzjoni.",
+        "tokens": [
+            "RINDIRIZZA",
+            "UEFA",
+            "Champions",
+            "League",
+            "2007–08"
+        ],
+        "spans": [
+            "ORG: UEFA Champions League 2007–08"
+        ],
+        "ner": [
+            "O",
+            "B-ORG",
+            "I-ORG",
+            "I-ORG",
+            "I-ORG"
+        ]
+    },
+    {
+        "sentence": "( bejn Afrika t'Isfel u Możambik )",
+        "entities": "Afrika t'Isfel huwa post.\nMożambik huwa post.",
+        "tokens": [
+            "(",
+            "bejn",
+            "Afrika",
+            "t'Isfel",
+            "u",
+            "Możambik",
+            ")"
+        ],
+        "spans": [
+            "LOC: Afrika t'Isfel",
+            "LOC: Możambik"
+        ],
+        "ner": [
+            "O",
+            "O",
+            "B-LOC",
+            "I-LOC",
+            "O",
+            "B-LOC",
+            "O"
+        ]
+    },
+    {
+        "sentence": "Isaac Newton ukoll studja l-kometi .",
+        "entities": "Isaac Newton huwa persuna.",
+        "tokens": [
+            "Isaac",
+            "Newton",
+            "ukoll",
+            "studja",
+            "l-kometi",
+            "."
+        ],
+        "spans": [
+            "PER: Isaac Newton"
+        ],
+        "ner": [
+            "B-PER",
+            "I-PER",
+            "O",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "sentence": "Pika ta ' Thomas",
+        "entities": "Pika ta ' Thomas huwa post.",
+        "tokens": [
+            "Pika",
+            "ta",
+            "'",
+            "Thomas"
+        ],
+        "spans": [
+            "LOC: Pika ta ' Thomas"
+        ],
+        "ner": [
+            "B-LOC",
+            "I-LOC",
+            "I-LOC",
+            "I-LOC"
+        ]
+    },
+    {
+        "sentence": "Billi ħass il-vokazzjoni biex isir qassis mar Ruma biex ikompli jistudja fl-Università Gregorjana .",
+        "entities": "Ruma huwa post.",
+        "tokens": [
+            "Billi",
+            "ħass",
+            "il-vokazzjoni",
+            "biex",
+            "isir",
+            "qassis",
+            "mar",
+            "Ruma",
+            "biex",
+            "ikompli",
+            "jistudja",
+            "fl-Università",
+            "Gregorjana",
+            "."
+        ],
+        "spans": [
+            "LOC: Ruma"
+        ],
+        "ner": [
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "B-LOC",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "sentence": "RINDIRIZZA Opossum bugeddum Peruvjan",
+        "entities": "Opossum bugeddum Peruvjan huwa post.",
+        "tokens": [
+            "RINDIRIZZA",
+            "Opossum",
+            "bugeddum",
+            "Peruvjan"
+        ],
+        "spans": [
+            "LOC: Opossum bugeddum Peruvjan"
+        ],
+        "ner": [
+            "O",
+            "B-LOC",
+            "I-LOC",
+            "I-LOC"
+        ]
+    },
+    {
+        "sentence": "RINDIRIZZA FC Admira Wacker Mödling",
+        "entities": "FC Admira Wacker Mödling huwa organizzazzjoni.",
+        "tokens": [
+            "RINDIRIZZA",
+            "FC",
+            "Admira",
+            "Wacker",
+            "Mödling"
+        ],
+        "spans": [
+            "ORG: FC Admira Wacker Mödling"
+        ],
+        "ner": [
+            "O",
+            "B-ORG",
+            "I-ORG",
+            "I-ORG",
+            "I-ORG"
+        ]
+    },
+    {
+        "sentence": "Huwa kkowċja bosta timijiet speċjalment Tim nazzjonali tal-Eġittu .",
+        "entities": "Tim nazzjonali tal-Eġittu huwa organizzazzjoni.",
+        "tokens": [
+            "Huwa",
+            "kkowċja",
+            "bosta",
+            "timijiet",
+            "speċjalment",
+            "Tim",
+            "nazzjonali",
+            "tal-Eġittu",
+            "."
+        ],
+        "spans": [
+            "ORG: Tim nazzjonali tal-Eġittu"
+        ],
+        "ner": [
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "B-ORG",
+            "I-ORG",
+            "I-ORG",
+            "O"
+        ]
+    },
+    {
+        "sentence": "Lorenzo Staelens '' ( provviżorju ) '' ( Ott 2012– ? ? )",
+        "entities": "Lorenzo Staelens huwa persuna.",
+        "tokens": [
+            "Lorenzo",
+            "Staelens",
+            "''",
+            "(",
+            "provviżorju",
+            ")",
+            "''",
+            "(",
+            "Ott",
+            "2012–",
+            "?",
+            "?",
+            ")"
+        ],
+        "spans": [
+            "PER: Lorenzo Staelens"
+        ],
+        "ner": [
+            "B-PER",
+            "I-PER",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "sentence": "Kien fl-1996 li huwa nħatar Ministru tat-Trasport u l-Portijiet fil-gvern immexxi minn Alfred Sant .",
+        "entities": "Alfred Sant huwa persuna.",
+        "tokens": [
+            "Kien",
+            "fl-1996",
+            "li",
+            "huwa",
+            "nħatar",
+            "Ministru",
+            "tat-Trasport",
+            "u",
+            "l-Portijiet",
+            "fil-gvern",
+            "immexxi",
+            "minn",
+            "Alfred",
+            "Sant",
+            "."
+        ],
+        "spans": [
+            "PER: Alfred Sant"
+        ],
+        "ner": [
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "B-PER",
+            "I-PER",
+            "O"
+        ]
+    },
+    {
+        "sentence": "RINDIRIZZA Tim nazzjonali tal-futbol tar-Russja",
+        "entities": "Tim nazzjonali tal-futbol tar-Russja huwa organizzazzjoni.",
+        "tokens": [
+            "RINDIRIZZA",
+            "Tim",
+            "nazzjonali",
+            "tal-futbol",
+            "tar-Russja"
+        ],
+        "spans": [
+            "ORG: Tim nazzjonali tal-futbol tar-Russja"
+        ],
+        "ner": [
+            "O",
+            "B-ORG",
+            "I-ORG",
+            "I-ORG",
+            "I-ORG"
+        ]
+    },
+    {
+        "sentence": "Luqa St. Andrew 's",
+        "entities": "Luqa St. Andrew 's huwa organizzazzjoni.",
+        "tokens": [
+            "Luqa",
+            "St.",
+            "Andrew",
+            "'s"
+        ],
+        "spans": [
+            "ORG: Luqa St. Andrew 's"
+        ],
+        "ner": [
+            "B-ORG",
+            "I-ORG",
+            "I-ORG",
+            "I-ORG"
+        ]
+    },
+    {
+        "sentence": "RINDIRIZZA SV Zulte Waregem",
+        "entities": "SV Zulte Waregem huwa organizzazzjoni.",
+        "tokens": [
+            "RINDIRIZZA",
+            "SV",
+            "Zulte",
+            "Waregem"
+        ],
+        "spans": [
+            "ORG: SV Zulte Waregem"
+        ],
+        "ner": [
+            "O",
+            "B-ORG",
+            "I-ORG",
+            "I-ORG"
+        ]
+    },
+    {
+        "sentence": "Dun Karm Psaila ( 1871–1961 )",
+        "entities": "Dun Karm Psaila huwa persuna.",
+        "tokens": [
+            "Dun",
+            "Karm",
+            "Psaila",
+            "(",
+            "1871–1961",
+            ")"
+        ],
+        "spans": [
+            "PER: Dun Karm Psaila"
+        ],
+        "ner": [
+            "B-PER",
+            "I-PER",
+            "I-PER",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "sentence": "It-turnew kien ospitat minn Nouvelle Fédération-Board .",
+        "entities": "Nouvelle Fédération-Board huwa organizzazzjoni.",
+        "tokens": [
+            "It-turnew",
+            "kien",
+            "ospitat",
+            "minn",
+            "Nouvelle",
+            "Fédération-Board",
+            "."
+        ],
+        "spans": [
+            "ORG: Nouvelle Fédération-Board"
+        ],
+        "ner": [
+            "O",
+            "O",
+            "O",
+            "O",
+            "B-ORG",
+            "I-ORG",
+            "O"
+        ]
+    },
+    {
+        "sentence": "Wara huwa mar ma ' Melita , fl-istaġun 2004-2005 huwa ngħaqad ma ' Pietà Hotspurs .",
+        "entities": "Melita huwa organizzazzjoni.\nPietà Hotspurs huwa organizzazzjoni.",
+        "tokens": [
+            "Wara",
+            "huwa",
+            "mar",
+            "ma",
+            "'",
+            "Melita",
+            ",",
+            "fl-istaġun",
+            "2004-2005",
+            "huwa",
+            "ngħaqad",
+            "ma",
+            "'",
+            "Pietà",
+            "Hotspurs",
+            "."
+        ],
+        "spans": [
+            "ORG: Melita",
+            "ORG: Pietà Hotspurs"
+        ],
+        "ner": [
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "B-ORG",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "B-ORG",
+            "I-ORG",
+            "O"
+        ]
+    },
+    {
+        "sentence": "Wara dan , il-Kavallieri setgħet biss tiġbor punt 1 minn żewg logħbiet suċċessivi kontra rivali promossi Għaxaq u St. Lucia .",
+        "entities": "Għaxaq huwa organizzazzjoni.\nSt. Lucia huwa organizzazzjoni.",
+        "tokens": [
+            "Wara",
+            "dan",
+            ",",
+            "il-Kavallieri",
+            "setgħet",
+            "biss",
+            "tiġbor",
+            "punt",
+            "1",
+            "minn",
+            "żewg",
+            "logħbiet",
+            "suċċessivi",
+            "kontra",
+            "rivali",
+            "promossi",
+            "Għaxaq",
+            "u",
+            "St.",
+            "Lucia",
+            "."
+        ],
+        "spans": [
+            "ORG: Għaxaq",
+            "ORG: St. Lucia"
+        ],
+        "ner": [
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "B-ORG",
+            "O",
+            "B-ORG",
+            "I-ORG",
+            "O"
+        ]
+    },
+    {
+        "sentence": "Sar il-pavimentar ta’ Triq ir-Repubblika Belt .",
+        "entities": "Belt huwa post.",
+        "tokens": [
+            "Sar",
+            "il-pavimentar",
+            "ta’",
+            "Triq",
+            "ir-Repubblika",
+            "Belt",
+            "."
+        ],
+        "spans": [
+            "LOC: Belt"
+        ],
+        "ner": [
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "B-LOC",
+            "O"
+        ]
+    },
+    {
+        "sentence": "Fil-karriera tiegħu bħala pedjatra , Dr Đokanović jaħdem fid-Dipartiment tal-Ostetrika fiċ-Ċentru Kliniku tal-Università ta’ Sarajevo .",
+        "entities": "Sarajevo huwa post.",
+        "tokens": [
+            "Fil-karriera",
+            "tiegħu",
+            "bħala",
+            "pedjatra",
+            ",",
+            "Dr",
+            "Đokanović",
+            "jaħdem",
+            "fid-Dipartiment",
+            "tal-Ostetrika",
+            "fiċ-Ċentru",
+            "Kliniku",
+            "tal-Università",
+            "ta’",
+            "Sarajevo",
+            "."
+        ],
+        "spans": [
+            "LOC: Sarajevo"
+        ],
+        "ner": [
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "B-LOC",
+            "O"
+        ]
+    },
+    {
+        "sentence": "Olivier Deschacht ( 2009–11 )",
+        "entities": "Olivier Deschacht huwa persuna.",
+        "tokens": [
+            "Olivier",
+            "Deschacht",
+            "(",
+            "2009–11",
+            ")"
+        ],
+        "spans": [
+            "PER: Olivier Deschacht"
+        ],
+        "ner": [
+            "B-PER",
+            "I-PER",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "sentence": "Iċ-ċampjins minn San Marino u Andorra jipparteċipaw ukoll minn din is-sena .",
+        "entities": "San Marino huwa post.\nAndorra huwa post.",
+        "tokens": [
+            "Iċ-ċampjins",
+            "minn",
+            "San",
+            "Marino",
+            "u",
+            "Andorra",
+            "jipparteċipaw",
+            "ukoll",
+            "minn",
+            "din",
+            "is-sena",
+            "."
+        ],
+        "spans": [
+            "LOC: San Marino",
+            "LOC: Andorra"
+        ],
+        "ner": [
+            "O",
+            "O",
+            "B-LOC",
+            "I-LOC",
+            "O",
+            "B-LOC",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "sentence": "RINDIRIZZA Jóhanna Guðrún Jónsdóttir",
+        "entities": "Jóhanna Guðrún Jónsdóttir huwa persuna.",
+        "tokens": [
+            "RINDIRIZZA",
+            "Jóhanna",
+            "Guðrún",
+            "Jónsdóttir"
+        ],
+        "spans": [
+            "PER: Jóhanna Guðrún Jónsdóttir"
+        ],
+        "ner": [
+            "O",
+            "B-PER",
+            "I-PER",
+            "I-PER"
+        ]
+    },
+    {
+        "sentence": "Pika ta ' Gaoligong",
+        "entities": "Pika ta ' Gaoligong huwa post.",
+        "tokens": [
+            "Pika",
+            "ta",
+            "'",
+            "Gaoligong"
+        ],
+        "spans": [
+            "LOC: Pika ta ' Gaoligong"
+        ],
+        "ner": [
+            "B-LOC",
+            "I-LOC",
+            "I-LOC",
+            "I-LOC"
+        ]
+    },
+    {
+        "sentence": "il-pajjiż ospitu Serbja ;",
+        "entities": "Serbja huwa post.",
+        "tokens": [
+            "il-pajjiż",
+            "ospitu",
+            "Serbja",
+            ";"
+        ],
+        "spans": [
+            "LOC: Serbja"
+        ],
+        "ner": [
+            "O",
+            "O",
+            "B-LOC",
+            "O"
+        ]
+    },
+    {
+        "sentence": "Hemmhekk kellu konversazzjoni ma’ Dr. Alfred Sant , kollega ta’ żmien il-Liċeo u kittieb ukoll .",
+        "entities": "Alfred Sant huwa persuna.",
+        "tokens": [
+            "Hemmhekk",
+            "kellu",
+            "konversazzjoni",
+            "ma’",
+            "Dr.",
+            "Alfred",
+            "Sant",
+            ",",
+            "kollega",
+            "ta’",
+            "żmien",
+            "il-Liċeo",
+            "u",
+            "kittieb",
+            "ukoll",
+            "."
+        ],
+        "spans": [
+            "PER: Alfred Sant"
+        ],
+        "ner": [
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "B-PER",
+            "I-PER",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "sentence": "RINDIRIZZA Opossum bugeddum Peruvjan",
+        "entities": "Opossum bugeddum Peruvjan huwa post.",
+        "tokens": [
+            "RINDIRIZZA",
+            "Opossum",
+            "bugeddum",
+            "Peruvjan"
+        ],
+        "spans": [
+            "LOC: Opossum bugeddum Peruvjan"
+        ],
+        "ner": [
+            "O",
+            "B-LOC",
+            "I-LOC",
+            "I-LOC"
+        ]
+    },
+    {
+        "sentence": "RINDIRIZZA Tim nazzjonali tal-futbol ta ' Spanja",
+        "entities": "Tim nazzjonali tal-futbol ta ' Spanja huwa organizzazzjoni.",
+        "tokens": [
+            "RINDIRIZZA",
+            "Tim",
+            "nazzjonali",
+            "tal-futbol",
+            "ta",
+            "'",
+            "Spanja"
+        ],
+        "spans": [
+            "ORG: Tim nazzjonali tal-futbol ta ' Spanja"
+        ],
+        "ner": [
+            "O",
+            "B-ORG",
+            "I-ORG",
+            "I-ORG",
+            "I-ORG",
+            "I-ORG",
+            "I-ORG"
+        ]
+    },
+    {
+        "sentence": "Opossum irqiq ta ' Dorothy",
+        "entities": "Opossum irqiq ta ' Dorothy huwa post.",
+        "tokens": [
+            "Opossum",
+            "irqiq",
+            "ta",
+            "'",
+            "Dorothy"
+        ],
+        "spans": [
+            "LOC: Opossum irqiq ta ' Dorothy"
+        ],
+        "ner": [
+            "B-LOC",
+            "I-LOC",
+            "I-LOC",
+            "I-LOC",
+            "I-LOC"
+        ]
+    },
+    {
+        "sentence": "Il-kampjonat kien imwettaq fi 8 timijiet , u Hibernians kienu rebbieħa tal-kampjonat .",
+        "entities": "Hibernians huwa organizzazzjoni.",
+        "tokens": [
+            "Il-kampjonat",
+            "kien",
+            "imwettaq",
+            "fi",
+            "8",
+            "timijiet",
+            ",",
+            "u",
+            "Hibernians",
+            "kienu",
+            "rebbieħa",
+            "tal-kampjonat",
+            "."
+        ],
+        "spans": [
+            "ORG: Hibernians"
+        ],
+        "ner": [
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "B-ORG",
+            "O",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "sentence": "RINDIRIZZA Papa Benedittu XVI",
+        "entities": "Papa Benedittu XVI huwa persuna.",
+        "tokens": [
+            "RINDIRIZZA",
+            "Papa",
+            "Benedittu",
+            "XVI"
+        ],
+        "spans": [
+            "PER: Papa Benedittu XVI"
+        ],
+        "ner": [
+            "O",
+            "B-PER",
+            "I-PER",
+            "I-PER"
+        ]
+    },
+    {
+        "sentence": "Imma allegatament Monsinjur Mikiel Gonzi kien instema ' jgħid li f'din il-kariga ried jaħtar qassis , u mhux patri .",
+        "entities": "Mikiel Gonzi huwa persuna.",
+        "tokens": [
+            "Imma",
+            "allegatament",
+            "Monsinjur",
+            "Mikiel",
+            "Gonzi",
+            "kien",
+            "instema",
+            "'",
+            "jgħid",
+            "li",
+            "f'din",
+            "il-kariga",
+            "ried",
+            "jaħtar",
+            "qassis",
+            ",",
+            "u",
+            "mhux",
+            "patri",
+            "."
+        ],
+        "spans": [
+            "PER: Mikiel Gonzi"
+        ],
+        "ner": [
+            "O",
+            "O",
+            "O",
+            "B-PER",
+            "I-PER",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "sentence": "RINDIRIZZA Tim nazzjonali tal-futbol tar-Repubblika Ċeka",
+        "entities": "Tim nazzjonali tal-futbol tar-Repubblika Ċeka huwa organizzazzjoni.",
+        "tokens": [
+            "RINDIRIZZA",
+            "Tim",
+            "nazzjonali",
+            "tal-futbol",
+            "tar-Repubblika",
+            "Ċeka"
+        ],
+        "spans": [
+            "ORG: Tim nazzjonali tal-futbol tar-Repubblika Ċeka"
+        ],
+        "ner": [
+            "O",
+            "B-ORG",
+            "I-ORG",
+            "I-ORG",
+            "I-ORG",
+            "I-ORG"
+        ]
+    },
+    {
+        "sentence": "“Vassalli ddakkar mill-ispirtu ta’ żminijietu” , jgħid Cremona .",
+        "entities": "Cremona huwa persuna.",
+        "tokens": [
+            "“Vassalli",
+            "ddakkar",
+            "mill-ispirtu",
+            "ta’",
+            "żminijietu”",
+            ",",
+            "jgħid",
+            "Cremona",
+            "."
+        ],
+        "spans": [
+            "PER: Cremona"
+        ],
+        "ner": [
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "B-PER",
+            "O"
+        ]
+    },
+    {
+        "sentence": "''Bejn l-1978 u l-1987 , Dom Mintoff issospenda l-katedra . ''",
+        "entities": "Dom Mintoff huwa persuna.",
+        "tokens": [
+            "''Bejn",
+            "l-1978",
+            "u",
+            "l-1987",
+            ",",
+            "Dom",
+            "Mintoff",
+            "issospenda",
+            "l-katedra",
+            ".",
+            "''"
+        ],
+        "spans": [
+            "PER: Dom Mintoff"
+        ],
+        "ner": [
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "B-PER",
+            "I-PER",
+            "O",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "sentence": "Ir-rebħ tal-kampjonat fisser ukoll it-tnax-il titlu għall-kowċ Sir Alex Ferguson .",
+        "entities": "Sir Alex Ferguson huwa persuna.",
+        "tokens": [
+            "Ir-rebħ",
+            "tal-kampjonat",
+            "fisser",
+            "ukoll",
+            "it-tnax-il",
+            "titlu",
+            "għall-kowċ",
+            "Sir",
+            "Alex",
+            "Ferguson",
+            "."
+        ],
+        "spans": [
+            "PER: Sir Alex Ferguson"
+        ],
+        "ner": [
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "B-PER",
+            "I-PER",
+            "I-PER",
+            "O"
+        ]
+    },
+    {
+        "sentence": "RINDIRIZZA Premier League 2008–09",
+        "entities": "Premier League 2008–09 huwa post.",
+        "tokens": [
+            "RINDIRIZZA",
+            "Premier",
+            "League",
+            "2008–09"
+        ],
+        "spans": [
+            "LOC: Premier League 2008–09"
+        ],
+        "ner": [
+            "O",
+            "B-LOC",
+            "I-LOC",
+            "I-LOC"
+        ]
+    },
+    {
+        "sentence": "Madanakollu , il-United irkupraw u bdew il-ġlieda għat-titlu Arsenal .",
+        "entities": "Arsenal huwa organizzazzjoni.",
+        "tokens": [
+            "Madanakollu",
+            ",",
+            "il-United",
+            "irkupraw",
+            "u",
+            "bdew",
+            "il-ġlieda",
+            "għat-titlu",
+            "Arsenal",
+            "."
+        ],
+        "spans": [
+            "ORG: Arsenal"
+        ],
+        "ner": [
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "B-ORG",
+            "O"
+        ]
+    },
+    {
+        "sentence": "Il-protagonist , Piscine Molitor `` Pi '' Patel , tifel Indjan minn Pondicherry , jesplora t-temi tal-ispiritwalità u tal-prattiċità minn età bikrija .",
+        "entities": "Indjan huwa post.",
+        "tokens": [
+            "Il-protagonist",
+            ",",
+            "Piscine",
+            "Molitor",
+            "``",
+            "Pi",
+            "''",
+            "Patel",
+            ",",
+            "tifel",
+            "Indjan",
+            "minn",
+            "Pondicherry",
+            ",",
+            "jesplora",
+            "t-temi",
+            "tal-ispiritwalità",
+            "u",
+            "tal-prattiċità",
+            "minn",
+            "età",
+            "bikrija",
+            "."
+        ],
+        "spans": [
+            "LOC: Indjan"
+        ],
+        "ner": [
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "B-LOC",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "sentence": "Edwin van der Sar",
+        "entities": "Edwin van der Sar huwa persuna.",
+        "tokens": [
+            "Edwin",
+            "van",
+            "der",
+            "Sar"
+        ],
+        "spans": [
+            "PER: Edwin van der Sar"
+        ],
+        "ner": [
+            "B-PER",
+            "I-PER",
+            "I-PER",
+            "I-PER"
+        ]
+    },
+    {
+        "sentence": "West Asian Football Federation ( WAFF )",
+        "entities": "West Asian Football Federation huwa organizzazzjoni.",
+        "tokens": [
+            "West",
+            "Asian",
+            "Football",
+            "Federation",
+            "(",
+            "WAFF",
+            ")"
+        ],
+        "spans": [
+            "ORG: West Asian Football Federation"
+        ],
+        "ner": [
+            "B-ORG",
+            "I-ORG",
+            "I-ORG",
+            "I-ORG",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "sentence": "RINDIRIZZA Tarxien Rainbows FC",
+        "entities": "Tarxien Rainbows FC huwa organizzazzjoni.",
+        "tokens": [
+            "RINDIRIZZA",
+            "Tarxien",
+            "Rainbows",
+            "FC"
+        ],
+        "spans": [
+            "ORG: Tarxien Rainbows FC"
+        ],
+        "ner": [
+            "O",
+            "B-ORG",
+            "I-ORG",
+            "I-ORG"
+        ]
+    },
+    {
+        "sentence": "Mario Notaro ( Mar 2013–Apr 13 )",
+        "entities": "Mario Notaro huwa persuna.",
+        "tokens": [
+            "Mario",
+            "Notaro",
+            "(",
+            "Mar",
+            "2013–Apr",
+            "13",
+            ")"
+        ],
+        "spans": [
+            "PER: Mario Notaro"
+        ],
+        "ner": [
+            "B-PER",
+            "I-PER",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "sentence": "Francky Dury ( Diċ 2011– )",
+        "entities": "Francky Dury huwa persuna.",
+        "tokens": [
+            "Francky",
+            "Dury",
+            "(",
+            "Diċ",
+            "2011–",
+            ")"
+        ],
+        "spans": [
+            "PER: Francky Dury"
+        ],
+        "ner": [
+            "B-PER",
+            "I-PER",
+            "O",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "sentence": "Lino Grech ( 1930–2013 ) — attur u direttur",
+        "entities": "Lino Grech huwa persuna.",
+        "tokens": [
+            "Lino",
+            "Grech",
+            "(",
+            "1930–2013",
+            ")",
+            "—",
+            "attur",
+            "u",
+            "direttur"
+        ],
+        "spans": [
+            "PER: Lino Grech"
+        ],
+        "ner": [
+            "B-PER",
+            "I-PER",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "sentence": "kampjonat tal-2008 , it-trofew kien daqxejn mibdul , hekk kif issa sar ikbar .",
+        "entities": "kampjonat tal-2008 huwa organizzazzjoni.",
+        "tokens": [
+            "kampjonat",
+            "tal-2008",
+            ",",
+            "it-trofew",
+            "kien",
+            "daqxejn",
+            "mibdul",
+            ",",
+            "hekk",
+            "kif",
+            "issa",
+            "sar",
+            "ikbar",
+            "."
+        ],
+        "spans": [
+            "ORG: kampjonat tal-2008"
+        ],
+        "ner": [
+            "B-ORG",
+            "I-ORG",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "sentence": "( bejn Franza u Spanja )",
+        "entities": "Franza huwa post.\nSpanja huwa post.",
+        "tokens": [
+            "(",
+            "bejn",
+            "Franza",
+            "u",
+            "Spanja",
+            ")"
+        ],
+        "spans": [
+            "LOC: Franza",
+            "LOC: Spanja"
+        ],
+        "ner": [
+            "O",
+            "O",
+            "B-LOC",
+            "O",
+            "B-LOC",
+            "O"
+        ]
+    }
+]

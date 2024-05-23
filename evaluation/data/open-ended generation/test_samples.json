@@ -1,0 +1,103 @@
+[
+    {
+        "instruction": "Kif nistg\u0127u nnaqqsu t-tni\u0121\u0121is tal-arja?", 
+        "input": "", 
+        "output": "Hemm diversi modi kif jitnaqqas it-tni\u0121\u0121is tal-arja, inklu\u017ci:\n\n1. Naqqas il-konsum tal-ener\u0121ija: Billi nikkonservaw l-ener\u0121ija, innaqqsu l-ammont ta 'tni\u0121\u0121is li jo\u0127ro\u0121 mill-impjanti tal-ener\u0121ija. Xi modi biex jinkiseb dan jinkludu: l-u\u017cu ta 'apparat u dawl effi\u010bjenti fl-ener\u0121ija, l-i\u017colazzjoni tad-djar, u l-g\u0127eluq tad-dwal u l-elettronika meta ma jkunux qed jintu\u017caw.\n\n2. U\u017ca trasport pubbliku jew carpool: Karozzi u trakkijiet huma sorsi ewlenin ta 'tni\u0121\u0121is. Billi tu\u017ca t-trasport pubbliku, il-carpooling jew ir-rota, tista' tnaqqas in-numru ta' karozzi fit-triq, li mbag\u0127ad inaqqas l-emissjonijiet.\n\n3. Kun responsabbli bl-iskart: Meta l-iskart jin\u0127araq jew ji\u0121i dekompost, jistg\u0127u jirrilaxxaw gassijiet ta '\u0127sara fl-arja. Armi l-iskart perikolu\u017c b'mod korrett u ri\u010bikla materjali b\u0127all-plastik, karta u \u0127\u0121ie\u0121 meta jkun possibbli.\n\n4. Appo\u0121\u0121 sorsi ta 'ener\u0121ija nadifa: Sorsi ta' ener\u0121ija rinnovabbli b\u0127all-ener\u0121ija solari u mir-ri\u0127 ji\u0121\u0121eneraw ftit jew xejn tni\u0121\u0121is. Appo\u0121\u0121a kumpaniji u pro\u0121etti ta 'ener\u0121ija nadifa, u ikkunsidra l-installazzjoni ta' sistemi ta 'ener\u0121ija rinnovabbli fid-dar tieg\u0127ek.\n\n5. Issuq b'mod effi\u010bjenti: Jekk g\u0127andek b\u017conn issuq, kun \u017cgur li l-vettura tieg\u0127ek tkun mi\u017cmuma tajjeb u ssuq b'mod effi\u010bjenti billi tevita a\u010b\u010belerazzjoni u bbrejkjar mg\u0127a\u0121\u0121la, u tnaqqas idling.\n\n6. Kun konxju tal-g\u0127a\u017cliet tal-prodotti: Xi prodotti u pratti\u010bi jerfg\u0127u aktar tni\u0121\u0121is minn o\u0127rajn. Ag\u0127\u017cel prodotti b'ippakkjar ekolo\u0121iku u ipprova jimminimizza l-u\u017cu tieg\u0127ek ta 'sprejs tal-ajrusol, li jistg\u0127u jirrilaxxaw kimi\u010bi ta' \u0127sara fl-arja."
+    },
+
+    {
+        "instruction": "Identifika l-fard.", 
+        "input": "Twitter, Instagram, Telegram", 
+        "output": "Il-fard huwa Telegram. Twitter u Instagram huma pjattaformi tal-midja so\u010bjali prin\u010bipalment g\u0127all-qsim ta\u2019 informazzjoni, stampi u vidjows filwaqt li Telegram huwa servizz ta\u2019 messa\u0121\u0121i istantaneji u voice-over-IP ibba\u017cat fuq il-cloud."
+    },
+
+    {
+        "instruction": "X'inhi l-kapitali ta' Franza?", 
+        "input": "", 
+        "output": "Il-belt kapitali ta\u2019 Franza hija Pari\u0121i."
+    },
+
+    {
+        "instruction": "Iddeskrivi l-funzjoni tal-motherboard tal-kompjuter", 
+        "input": "", 
+        "output": "Il-motherboard, mag\u0127rufa wkoll b\u0127ala l-mainboard jew il-bord tas-sistema, hija l-bord ta\u010b-\u010birkwit stampat \u010bentrali f'kompjuter. Isservi b\u0127ala s-sinsla jew il-pedament g\u0127al kompjuter, li jg\u0127aqqad il-komponenti differenti kollha b\u0127all-CPU, RAM, drives tal-\u0127a\u017cna, karti ta 'espansjoni, u periferali. Il-motherboard jimmani\u0121\u0121ja l-komunikazzjoni u t-trasferiment tad-dejta bejn dawn il-komponenti, li jippermettilhom ja\u0127dmu flimkien u jwettqu l-kompiti mag\u0127\u017cula tag\u0127hom.\n\nIl-motherboard jinkludi wkoll \u010birkwiti importanti b\u0127a\u010b-\u010birkwit tar-regolazzjoni tal-ener\u0121ija li jipprovdi ener\u0121ija lill-komponenti differenti, u l-\u0121eneratur tal-arlo\u0121\u0121 li jissinkronizza l-operat ta 'dawn il-komponenti. Fiha wkoll il-BIOS (sistema ba\u017cika ta\u2019 input/output), li hija firmware li tikkontrolla l-pro\u010bess tal-ibbutjar u tipprovdi interface g\u0127all-konfigurazzjoni u l-\u0121estjoni tal-\u0127ardwer tal-kompjuter. Karatteristi\u010bi o\u0127ra fuq motherboard jistg\u0127u jinkludu kapa\u010bitajiet ta' netwerking, awdjo u vidjo integrati.\n\nB'mod \u0121enerali, il-funzjoni ta 'motherboard tal-kompjuter hija li tipprovdi pjattaforma g\u0127all-integrazzjoni u t-t\u0127addim tal-komponenti varji kollha li jiffurmaw kompjuter, li jag\u0127milha parti essenzjali ta' kwalunkwe sistema tal-kompjuter."
+    },
+
+    {
+        "instruction": "Min hu l-aktar pittur famu\u017c fid-dinja?", 
+        "input": "", 
+        "output": "It-titlu tal-pittur l-aktar famu\u017c fid-dinja huwa su\u0121\u0121ettiv u jista\u2019 jvarja skont l-opinjoni personali ta\u2019 individwu. Madankollu, \u0127afna nies iqisu lil Leonardo da Vinci, artist famu\u017c tar-Rinaxximent Taljan, b\u0127ala wie\u0127ed mill-aktar pitturi famu\u017ci fid-dinja. Huwa mag\u0127ruf g\u0127ax-xog\u0127lijiet ikoni\u010bi tieg\u0127u fosthom il-\"Mona Lisa\" u \"The Last Supper\". Pitturi notevoli o\u0127ra spiss ikkwotati b\u0127ala fost l-aktar famu\u017ci fid-dinja jinkludu Vincent van Gogh, Pablo Picasso, u Michelangelo."
+    },
+
+    {
+        "instruction": "Ikteb paragrafu qasir dwar is-su\u0121\u0121ett mog\u0127ti.", 
+        "input": "L-importanza li tu\u017ca l-ener\u0121ija rinnovabbli", 
+        "output": "L-importanza tal-u\u017cu tal-ener\u0121ija rinnovabbli ma tistax ti\u0121i e\u017ca\u0121erata. Sorsi ta 'ener\u0121ija rinnovabbli, b\u0127all-ener\u0121ija solari, mir-ri\u0127 u idroelettrika, jistg\u0127u jer\u0121g\u0127u jimtlew b'mod naturali f'perjodu qasir ta' \u017cmien, b'differenza mill-fjuwils fossili, li huma finiti. L-u\u017cu tal-ener\u0121ija rinnovabbli jnaqqas l-emissjonijiet tal-gassijiet serra, u b'hekk jg\u0127in biex jittaffew l-effetti tat-tibdil fil-klima. Barra minn hekk, inaqqas id-dipendenza tag\u0127na fuq sorsi ta\u2019 ener\u0121ija mhux rinnovabbli, billi tippromwovi l-indipendenza tal-ener\u0121ija, u s-sigurt\u00e0. Barra minn hekk, is-sorsi tal-ener\u0121ija rinnovabbli \u0127afna drabi huma or\u0127os fit-tul u jistg\u0127u jo\u0127olqu opportunitajiet ta\u2019 xog\u0127ol fis-settur tal-ener\u0121ija ekolo\u0121ika. G\u0127alhekk, it-tran\u017cizzjoni g\u0127all-ener\u0121ija rinnovabbli hija kru\u010bjali g\u0127as-sa\u0127\u0127a tal-pjaneta u s-sostenibbilt\u00e0 tal-futur tag\u0127na."
+    },
+
+    {
+        "instruction": "Spjega l-kun\u010bett ta 'intelli\u0121enza artifi\u010bjali f'termini sempli\u010bi.", 
+        "input": "", 
+        "output": "L-Intelli\u0121enza Artifi\u010bjali, komunement mag\u0127rufa b\u0127ala AI, hija ba\u017cikament l-i\u017cvilupp ta 'sistemi tal-kompjuter li jistg\u0127u jwettqu \u0127idmiet li normalment je\u0127tie\u0121u intelli\u0121enza umana. Dawn il-kompiti jistg\u0127u jinkludu affarijiet b\u0127al traduzzjoni tal-lingwa, te\u0127id ta 'de\u010bi\u017cjonijiet, per\u010bezzjoni vi\u017cwali, rikonoxximent tad-diskors, u anke log\u0127ob ta' strate\u0121ija kumplessa.\n\nF'termini aktar sempli\u010bi, l-AI hija meta l-kompjuters u l-magni jistg\u0127u jag\u0127mlu affarijiet li normalment il-bnedmin biss jistg\u0127u jag\u0127mlu, b\u0127all-\u0127sieb, ir-ra\u0121unament u s-soluzzjoni tal-problemi. Dan jinkiseb billi jin\u0127olqu algoritmi, jew settijiet ta' regoli, li jistg\u0127u jg\u0127inu lill-kompjuter jitg\u0127allem wa\u0127du u jie\u0127u de\u010bi\u017cjonijiet ibba\u017cati fuq id-data.\n\nB'mod \u0121enerali, l-AI hija teknolo\u0121ija affaxxinanti u qawwija li tippermetti lill-kompjuters jitg\u0127allmu, jadattaw u jtejbu b'modi li qabel kienu meqjusa impossibbli."
+    },
+
+    {
+        "instruction": "Ikkonverti minn celsius g\u0127al fahrenheit.", 
+        "input": "Temperatura f'Celsius: 15", 
+        "output": "It-temperatura f'Fahrenheit hija 59.0 gradi. (\u00b0F = \u00b0C * 9/5 + 32)"
+    },
+
+    {
+        "instruction": "Ipprovdi e\u017cempju ta\u2019 sors ta\u2019 ener\u0121ija mhux rinnovabbli.", 
+        "input": "", 
+        "output": "E\u017cempju wie\u0127ed ta' sors ta' ener\u0121ija mhux rinnovabbli huwa l-fa\u0127am. Il-fa\u0127am huwa fjuwil fossili li huwa ffurmat minn fdalijiet ta 'pjanti u annimali mejta li \u0121ew midfuna u esposti g\u0127as-s\u0127ana u l-pressjoni fuq miljuni ta' snin. Huwa meqjus mhux rinnovabbli min\u0127abba li jie\u0127u miljuni ta 'snin biex jifforma u r-rata ta' estrazzjoni tal-fa\u0127am hija \u0127afna aktar mg\u0127a\u0121\u0121la mir-rata tal-formazzjoni tieg\u0127u. Ladarba nkunu u\u017cajna r-ri\u017cervi kollha tal-fa\u0127am, dan ikun marret g\u0127al dejjem."
+    },
+
+    {
+        "instruction": "Kemm hemm bytes f'kilobyte?", 
+        "input": "", 
+        "output": "Hemm 1024 bytes f'kilobyte.\n\nMadankollu, it-terminu kilobyte storikament intu\u017ca biex jirreferi jew g\u0127al 1024 bytes, jew 1000 bytes, skont il-kuntest. Fis-Sistema Internazzjonali ta' Unitajiet (SI), il-prefiss \"kilo\" ifisser 1000, g\u0127alhekk 1 kilobyte (kB) ikun 1000 bytes. Madankollu, fil-kuntest tal-kompjuters u l-\u0127a\u017cna tad-dejta, fejn id-dejta binarja hija organizzata f'poteri ta' 2, kien komuni li jintu\u017ca sett differenti ta' prefissi binarji, fejn 1 kibibyte (KiB) = 1024 bytes.\n\nMinn bejn wie\u0127ed u ie\u0127or 2000 il-Kummissjoni Elettroteknika Internazzjonali (IEC) \u017cviluppat standard internazzjonali ta 'prefissi binarji, dawn jinkludu prefissi: kibi-, mebi-, gibi-, tebi-, pebi-, u exbi-, g\u0127alhekk qed jikbru f'fatturi ta' (2^ 10). Madankollu, anke issa kilobyte interkambjabbli jintu\u017ca biex ifisser 1024 bytes, filwaqt li f'kuntesti b\u0127at-tra\u017cmissjoni tad-dejta u l-\u0127a\u017cna tal-konsumatur, \u0127afna drabi jintu\u017ca mad-definizzjoni SI ta '1000 bytes."
+    },
+
+    {
+        "instruction": "Ag\u0127ti fil-qosor ir-rivoluzzjoni industrijali.", 
+        "input": "", 
+        "output": "Ir-Rivoluzzjoni Industrijali kienet perjodu fl-a\u0127\u0127ar tas-seklu 18 u l-bidu tad-19 li matulu se\u0127\u0127ew bidliet kbar fl-agrikoltura, il-manifattura u t-trasport, li ttrasformaw b'mod radikali l-kundizzjonijiet so\u010bjoekonomi\u010bi u kulturali fl-Ewropa tal-Punent, l-Amerika ta 'Fuq u eventwalment il-bqija tad-dinja. Dan il-perjodu ra l-mekkanizzazzjoni tal-industrija, l-agrikoltura u t-trasport, li wassal g\u0127at-tkabbir ta 'fabbriki, produzzjoni tal-massa, urbanizzazzjoni, u t-tkabbir tal-klassi tan-nofs. L-i\u017cviluppi fl-industriji tal-ener\u0121ija tal-fwar, tal-\u0127adid u tat-tessuti kellhom rwoli \u010bentrali fir-rivoluzzjoni, filwaqt li l-avvanzi fit-trasport bil-ferroviji u l-kanali ppermettew moviment aktar mg\u0127a\u0121\u0121el u e\u0127fef tal-merkanzija u tan-nies. Ir-Rivoluzzjoni Industrijali kellha effett profond fuq l-ekonomija globali, li wasslet g\u0127al \u017cieda bla pre\u010bedent fil-livell tal-g\u0127ajxien g\u0127al miljuni, i\u017cda \u0121abet ukoll konsegwenzi negattivi b\u0127al disparit\u00e0 akbar fil-\u0121id, tni\u0121\u0121is, u kundizzjonijiet tax-xog\u0127ol \u0127orox fil-fabbriki."
+    },
+
+    {
+        "instruction": "Mog\u0127ti isem persuna, ipprovdi t-titlu tax-xog\u0127ol tag\u0127ha", 
+        "input": "Emmeline Pankhurst", 
+        "output": "Emmeline Pankhurst kienet attivista politika u mexxejja tal-moviment tas-sufragette Brittaniku li \u0121\u0121ieled g\u0127ad-dritt tal-vot tan-nisa."
+    },
+
+    {
+        "instruction": "Liema President Amerikan serva l-itwal \u017cmien?", 
+        "input": "", 
+        "output": "Franklin D. Roosevelt huwa l-president tal-Istati Uniti li serva l-itwal terminu. Huwa \u0121ie elett g\u0127al erba' termini u serva total ta' 12-il sena fil-kariga mill-1933 sal-1945. Roosevelt miet fil-kariga fl-1945, matul ir-raba' mandat tieg\u0127u."
+    },
+
+    {
+        "instruction": "X'inhuma t-tliet kuluri primarji?", 
+        "input": "", 
+        "output": "It-tliet kuluri primarji huma a\u0127mar, blu u isfar. Dawn il-kuluri jissej\u0127u primarji g\u0127ax ma jistg\u0127ux jin\u0127olqu billi jit\u0127alltu kuluri o\u0127ra u l-kuluri l-o\u0127ra kollha jistg\u0127u jsiru billi tg\u0127aqqadhom f\u2019diversi proporzjonijiet. Fis-sistema tal-kulur addittiv, u\u017cata g\u0127ad-dawl, il-kuluri primarji huma a\u0127mar, a\u0127dar u blu (RGB)."
+    },
+
+    {
+        "instruction": "Identifika d-differenzi ewlenin bejn kompost organiku u inorganiku.", 
+        "input": "", 
+        "output": "Il-komposti organi\u010bi u l-komposti inorgani\u010bi jvarjaw fl-istruttura, il-kompo\u017cizzjoni, il-proprjetajiet u r-reazzjonijiet tag\u0127hom.\n\n1. Kompo\u017cizzjoni: Il-komposti organi\u010bi huma mag\u0127mula primarjament minn karbonju, idro\u0121enu, u elementi o\u0127ra b\u0127al nitro\u0121enu, ossi\u0121nu, kubrit, flimkien ma 'elementi o\u0127ra fi proporzjonijiet i\u017cg\u0127ar. Komposti inorgani\u010bi, m'g\u0127andhomx sinsla tal-karbonju u minflok jinkludu metalli, non-metalli, u metalloids marbuta flimkien.\n\n2. Struttura: Il-komposti organi\u010bi \u0121eneralment ikollhom strutturi kumplessi u kbar b'rabtiet kovalenti li jippermettu diversi gruppi funzjonali u arran\u0121amenti. Il-komposti inorgani\u010bi, min-na\u0127a l-o\u0127ra, huma tipikament sempli\u010bi fl-istruttura b'twa\u0127\u0127il joniku jew kovalenti.\n\n3. Proprjetajiet: Min\u0127abba d-differenza fl-istruttura u t-twa\u0127\u0127il tag\u0127hom, komposti organi\u010bi u inorgani\u010bi jistg\u0127u juru proprjetajiet fi\u017ci\u010bi u kimi\u010bi differenti \u0127afna. Il-komposti organi\u010bi \u0121eneralment g\u0127andhom punti ta 'tidwib u tog\u0127lija baxxi, ma jin\u0127allux fl-ilma i\u017cda jin\u0127all f'solventi organi\u010bi, u huma fjammabbli. Min-na\u0127a l-o\u0127ra, il-komposti inorgani\u010bi \u0121eneralment ikollhom punti ta 'tidwib u ta' tog\u0127lija g\u0127oljin, jin\u0127allu fl-ilma, u ma jaqbdux.\n\n4. Reazzjonijiet: Il-komposti organi\u010bi \u0121eneralment jg\u0127addu minn reazzjonijiet bil-mod li huma selettivi \u0127afna u jse\u0127\u0127u ta\u0127t kundizzjonijiet ikkontrollati. Komposti inorgani\u010bi jg\u0127addu minn reazzjonijiet rapidi, li huma inqas selettivi u jse\u0127\u0127u ta\u0127t kundizzjonijiet elevati jew imnaqqsa ta 'temperatura u pressjoni.\n\nFil-qosor, id-differenzi ewlenin bejn il-komposti organi\u010bi u inorgani\u010bi huma li l-komposti organi\u010bi fihom karbonju marbut ma 'l-idro\u0121enu u elementi o\u0127ra filwaqt li l-komposti inorgani\u010bi le. L-istruttura, il-kompo\u017cizzjoni, il-proprjetajiet u r-reazzjonijiet tag\u0127hom huma wkoll differenti min\u0127abba l-pre\u017cenza jew in-nuqqas ta 'din is-sinsla tal-karbonju."
+    },
+
+    {
+        "instruction": "Ikkalkula s-somma ta\u010b-\u010bifri kollha fin-numru mog\u0127ti.", 
+        "input": "18047", 
+        "output": "Is-somma ta\u010b-\u010bifri kollha fin-numru 18047 hija 1 + 8 + 0 + 4 + 7 = 20."
+    },
+
+    {
+        "instruction": "Ikteb storja dwar kelb jitkellem.", 
+        "input": "", 
+        "output": "Darba, fil-qalba ta\u2019 belt bie\u017cla, kien hemm kelb \u017cg\u0127ir u kurju\u017c jismu Milo. Milo kien dachshund b\u2019ri\u0121lejn qosra u stubb u widnejn kbar u floppy li \u0121ag\u0127lu qisu dejjem qed jisma\u2019 b\u2019attenzjoni. Il-pil tieg\u0127u kien ta\u0127lita ta\u2019 iswed u kannella, u g\u0127ajnejh kienu kbar u kannella, mimlijin s\u0127ana u fervur.\n\nMilo kien i\u0127obb jg\u0127ix fil-belt. Kull jum kienet avventura, u dejjem kien hemm tant rwejja\u0127 \u0121odda x\u2019tiskopri, tant \u0127sejjes \u0121odda x\u2019tisma\u2019, u tant nies u annimali o\u0127ra x\u2019tiltaqa\u2019. I\u017cda kien hemm \u0127a\u0121a wa\u0127da li g\u0127amlet lil Milo differenti mill-klieb l-o\u0127ra kollha li kien jaf. Milo seta\u2019 jitkellem.\n\nG\u0127all-ewwel, Milo ma kienx jaf li kien differenti mill-klieb l-o\u0127ra. Barked u yipped u growled b\u0127al dawn. I\u017cda \u0121urnata wa\u0127da, kien bilqieg\u0127da fil-park, jara l-\u0127amiem jitnaqqsu xi frak, meta tfajla \u017cag\u0127\u017cug\u0127a resqet lejh. Ma setg\u0127etx kellha aktar minn \u0127ames jew sitt snin, u kienet liebsa libsa ro\u017ca jg\u0127ajjat \u200b\u200bu pruwa li tqabbel f\u2019xag\u0127arha.\n\n\u201cHello, doggie,\u201d qalet hi, tg\u0127awwe\u0121 quddiem Milo. \"X'ismek?\"\n\nMing\u0127ajr ma \u0127asibha, Milo wie\u0121eb, \"Jimni Milo.\"\n\nIt-tifla \u010bkejkna teptip sorpri\u017ca, imbag\u0127ad da\u0127qet. \"Tista 'titkellem!\"\n\nMinn dak il-jum 'l quddiem, Milo sar xi \u0127a\u0121a ta' \u010belebrit\u00e0 fil-vi\u010binat. In-nies kienu jwaqqfuh fit-triq biex ji\u010b\u010bettjaw, u t-tfal kienu jin\u0121abru madwaru biex jisimg\u0127uh jirrakkonta l-istejjer. Kien pja\u010bevoli \u0127afna, i\u017cda jista 'jkun g\u0127eja, ukoll. Xi drabi Milo ried biss jer\u0121a\u2019 jkun kelb ordinarju.\n\n\u0120urnata wa\u0127da, Milo iltaqa\u2019 ma\u2019 kelb ie\u0127or fil-park, greyhound b\u2019ri\u0121lejn twal u rqaq u kowt iswed sleek. Jismu Jack, u seta\u2019 ji\u0121ri b\u0127ar-ri\u0127. Jack kien affaxxinat bil-\u0127ila ta\u2019 Milo li jitkellem, u sema\u2019 b\u2019attenzjoni hekk kif Milo qallu kollox dwar l-avventuri tieg\u0127u fil-belt.\n\n\"Int taf,\" qal Jack wara ftit, \"xi drabi nixtieq inkun nista nitkellem ukoll. Imma mbag\u0127ad niftakar li nkun velo\u010bi hija \u0127a\u0121a spe\u010bjali tieg\u0127i. U int, Milo, g\u0127andek il-\u0127a\u0121a spe\u010bjali tieg\u0127ek. \u017bgur, jista 'jkun te\u017cawrixxi kultant, imma na\u0127seb li ma tkunx negozjaha g\u0127al xejn, hux?\"\n\nMilo \u0127aseb dwarha g\u0127al mument, imbag\u0127ad da\u0127ka. \"Le,\" qal. \"Na\u0127seb li kieku"}
+
+]

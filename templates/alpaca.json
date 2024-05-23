@@ -1,0 +1,8 @@
+{
+    "description": "Template used by Alpaca-LoRA.",
+    "prompt_input": "Hawn taħt hawn struzzjoni li tiddeskrivi kompitu, flimkien ma' input li jipprovdi aktar kuntest. Ikteb tweġiba li timla t-talba kif xieraq.\n\n### Istruzzjoni: \n{instruction}\n\n### Input:\n{input}\n\n### Risposta:\n",
+
+    "prompt_no_input": "Hawn taħt hawn struzzjoni li tiddeskrivi kompitu. Ikteb tweġiba li tikkompleta t-talba kif xieraq.\n\n### Istruzzjoni:\n{instruction}\n\n### Risposta:\n",
+    
+    "response_split": "### Risposta:"    
+}
